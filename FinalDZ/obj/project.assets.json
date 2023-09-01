@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Никита\\Desktop\\FinalDZ\\FinalDZ.csproj",
+      "projectUniqueName": "C:\\Users\\Никита\\Desktop\\IT\\FinalDZ\\FinalDZ.csproj",
       "projectName": "FinalDZ",
-      "projectPath": "c:\\Users\\Никита\\Desktop\\FinalDZ\\FinalDZ.csproj",
+      "projectPath": "C:\\Users\\Никита\\Desktop\\IT\\FinalDZ\\FinalDZ.csproj",
       "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Никита\\Desktop\\FinalDZ\\obj\\",
+      "outputPath": "C:\\Users\\Никита\\Desktop\\IT\\FinalDZ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config"
